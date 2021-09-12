@@ -1,4 +1,4 @@
-# Default of Credit Card Clients Python Machine Learning Project
+# Predicting Default of Credit Card Clients: A Python Machine Learning Project
 Credit card companies make money by collecting interest on loans. When a customer is unable to pay, then the loan defaults. Defaults cause credit card companies to lose money by either writing the balance off completely, or by selling the balance to a collection agency for pennies on the dollar. Therefore, determining if a customer will default in the next month can allow a bank to implement loss mitigation strategies in advance of the default.
 
 This project will investigate whether customer account information can be used to build machine learning models to successfully predict whether or not a customer will default on their next month's payment. This is a supervised learning problem; the data set has two different labels ((1=yes will default next month, 0=no will not default next month). 
